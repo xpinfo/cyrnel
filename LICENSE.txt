@@ -1,0 +1,15 @@
+Absolute License
+
+Part_I(copyright): (c) brtnstn@pm.me, 2019–2026. All rights reserved.
+
+Part_II(notice): Distribution, modification, or transposition in i) source, ii) notation, iii) structure, iv) organization, or v) principle of the technology, in any form, with or without modification, is strictly prohibited. Access to this technology, by any means, does not constitute permission to use, reproduce, or derive from it.
+
+Part_III(commercial): No commercial use, product, service, or derivative work may be built upon, derived from, or informed by this technology without a valid, signed commercial license agreement obtained directly from the copyright holder. Unlicensed commercial use constitutes willful infringement and misappropriation of proprietary economic rights.
+
+Part_IV(clause): Development of competing products, services, or technologies derived from or substantially similar to this work is explicitly prohibited without express written authorization from the copyright holder.
+
+Part_V(provision): Any authorized redistribution must reproduce this license in its entirety in all associated documentation and materials.
+
+Part_VI(remedy): Violation of any term of this license entitles the copyright holder to seek all available civil remedies, including but not limited to injunctive relief, disgorgement of profits, liquidated damages, and attorney's fees. Violations may be referred.
+
+Part_VII(disclaimer): The technology is provided "as is". In no event shall the copyright holder be liable for any claim or damages arising from unauthorized use of the technology.
