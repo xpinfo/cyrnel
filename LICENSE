@@ -1,21 +1,22 @@
 cyrnel Source-Available License
 Copyright (c) 2019-2026 Matthew K. Breitenstein, PhD
+
 1. Restrictions
 No part of this software, its source code, or associated materials may be used, copied, reproduced, or distributed in any form without the express prior written permission of the copyright holder.
+
 2. Permitted Modifications
 Modifications and derivative works are permitted provided that:
-
 Express prior written permission has been obtained from the copyright holder.
 All derivative works include a full academic citation to the original work in any associated documentation, publications, or distributed materials.
 
 3. Citation Requirement
-Any permitted use or derivative work must cite this work in standard academic format, e.g.:
-
-Matthew Breitenstein. (2019-2026). cyrnel. Retrieved from https://github.com/publications-brtnstn/cyrnel
+Any permitted use or derivative work must cite this work in standard academic format, e.g.: Matthew Breitenstein. (2019-2026). cyrnel. Retrieved from https://github.com/publications-brtnstn/cyrnel
 
 4. No Implicit License
 Nothing in this license grants any rights by implication, estoppel, or otherwise. All rights not explicitly granted are reserved by the copyright holder.
+
 5. Termination
 Any use in violation of these terms automatically terminates any permissions previously granted.
+
 6. Disclaimer
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THIS SOFTWARE.
